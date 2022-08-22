@@ -1,0 +1,1 @@
+You can now create a new member account for CircleB with this program and if you have enough permission, I'll have a gift for you.
