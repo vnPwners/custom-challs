@@ -2,8 +2,8 @@
 
 | Challenge | Tác giả ✏️              | Ngày upload (DD-MM-YYYY) | Độ khó |
 |-----------|------------------------|--------------------------|--------|
-| [Sick Flag](./Sick_Flag/) | Johnathan Huu Tri#8923 | 09-09-2022               | N/A     |
-| [Let Leak Flag](./Let_leak_Flag/) | Johnathan Huu Tri#8923 | 09-09-2022               | N/A     |
+| [Sick Flag](./Sick_Flag/) | Johnathan Huu Tri#8923 | 09-09-2022               | dễ     |
+| [Let Leak Flag](./Let_leak_Flag/) | Johnathan Huu Tri#8923 | 09-09-2022               | dễ     |
 | [what_is_your_dream](./what_is_your_dream/) | konaan#6338 | 05-09-2022               | dễ     |
 | [Simple Note](./SimpleNote/) | Johnathan Huu Tri#8923 | 02-09-2022               | N/A     |
 | [doyoulovepwn](./doyoulovepwn/) | Johnathan Huu Tri#8923 | 02-09-2022               | N/A     |
