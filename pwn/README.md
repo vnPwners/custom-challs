@@ -2,6 +2,7 @@
 
 | Challenge | Tác giả ✏️              | Ngày upload (DD-MM-YYYY) | Độ khó |
 |-----------|------------------------|--------------------------|--------|
+| [SUM](./sum/) | Johnathan Huu Tri#8923 | 28-09-2022               | dễ - trung bình    |
 | [Sick Flag](./Sick_Flag/) | Johnathan Huu Tri#8923 | 09-09-2022               | dễ     |
 | [Let Leak Flag](./Let_leak_Flag/) | Johnathan Huu Tri#8923 | 09-09-2022               | dễ     |
 | [what_is_your_dream](./what_is_your_dream/) | konaan#6338 | 05-09-2022               | dễ     |
