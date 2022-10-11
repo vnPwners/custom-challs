@@ -2,6 +2,7 @@
 
 | Challenge | Tác giả ✏️              | Ngày upload (DD-MM-YYYY) | Độ khó |
 |-----------|------------------------|--------------------------|--------|
+| [Tcache Note](./tcachenote/) | Johnathan Huu Tri#8923 | 11-10-2022               | dễ    |
 | [SUM](./sum/) | Johnathan Huu Tri#8923 | 28-09-2022               | dễ - trung bình    |
 | [Sick Flag](./Sick_Flag/) | Johnathan Huu Tri#8923 | 09-09-2022               | dễ     |
 | [Let Leak Flag](./Let_leak_Flag/) | Johnathan Huu Tri#8923 | 09-09-2022               | dễ     |
